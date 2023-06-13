@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: lightslategray;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+.container {
+  height: 100px;
+  width: 200px;
+  background-color: grey;
+}
+
+#stopwatch {
+  padding: 5px;
+  margin-left: 45px;
+  font-size: 30px;
+  background-color: grey;
+  color: white;
+}
+
+#button {
+  padding: 5px;
+  margin-left: 30px;
+  background-color: grey;
+}
+
+#mybtn {
+  background-color: lightskyblue;
+  padding: 5px;
+}
